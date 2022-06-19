@@ -40,6 +40,11 @@ li {
     font-size: 24px;
 }
 
+p {
+    background-color: rgb(202, 202, 202);
+    font-weight: 600;
+}
+
 h3.muddy-buddies {
     color: white;
     background-color: rgb(112, 64, 0);
@@ -53,4 +58,8 @@ h3.homemade-pasta {
 h3.pancakes {
     color: rgb(245, 245, 161);
     background-color: rgb(216, 132, 64);
+}
+
+ul li {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
