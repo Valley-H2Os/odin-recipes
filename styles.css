@@ -21,3 +21,8 @@ button {
 .pancakes {
     background-color: tan;
 }
+
+img {
+    height: auto;
+    width: 400px;
+}
